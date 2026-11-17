@@ -1,2 +1,2 @@
-# TP01-TEST-GIT-BASH-
+# TP01-TEST-GIT-descktop
 Repo for testing GIT-BASH
